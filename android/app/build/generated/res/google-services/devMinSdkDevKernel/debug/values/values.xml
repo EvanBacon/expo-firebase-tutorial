@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">834977064089-2vkn9c89a57nd9fkf9vpond851kcus8p.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://better-thing.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">834977064089</string>
+    <string name="google_api_key" translatable="false">AIzaSyDhQ_W0uwmxQvX7w8qo0RPMV4K1XtGXzLQ</string>
+    <string name="google_app_id" translatable="false">1:834977064089:android:5304833347f50e6a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDhQ_W0uwmxQvX7w8qo0RPMV4K1XtGXzLQ</string>
+    <string name="google_storage_bucket" translatable="false">better-thing.appspot.com</string>
+    <string name="project_id" translatable="false">better-thing</string>
+</resources>

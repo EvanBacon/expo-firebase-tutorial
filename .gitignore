@@ -1,0 +1,10 @@
+node_modules/**/*
+.expo/**/*
+release/builds
+
+*/**/.idea/
+.vscode
+ios/Pods/
+*.ipa
+*.apk
+*.sketch

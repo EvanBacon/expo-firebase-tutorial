@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "834977064089",
+    "firebase_url": "https://better-thing.firebaseio.com",
+    "project_id": "better-thing",
+    "storage_bucket": "better-thing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834977064089:android:5304833347f50e6a",
+        "android_client_info": {
+          "package_name": "com.evanbacon.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834977064089-2vkn9c89a57nd9fkf9vpond851kcus8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhQ_W0uwmxQvX7w8qo0RPMV4K1XtGXzLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
