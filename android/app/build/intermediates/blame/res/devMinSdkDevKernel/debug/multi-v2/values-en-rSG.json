@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/evanbacon/Documents/youtube-clone/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "outputFile": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
                     "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/play-services-wallet-15.0.1.aar/f4d7258102e13813345a66dc817d7717/res/values-en-rSG/values.xml",

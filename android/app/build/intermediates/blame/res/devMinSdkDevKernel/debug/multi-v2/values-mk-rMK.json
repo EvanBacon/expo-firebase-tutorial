@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/evanbacon/Documents/youtube-clone/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
+            "outputFile": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
             "map": [
                 {
                     "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/171ccdf14f52f9a00101a28bd3ca1d3c/res/values-mk-rMK/values-mk-rMK.xml",

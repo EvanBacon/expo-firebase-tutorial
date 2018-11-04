@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/evanbacon/Documents/youtube-clone/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/70fc52fb22f9ec255f1ee85556030807/res/values-v24/values-v24.xml",

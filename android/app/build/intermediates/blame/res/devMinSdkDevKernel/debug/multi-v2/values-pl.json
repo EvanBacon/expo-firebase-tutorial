@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/evanbacon/Documents/youtube-clone/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-pl/values-pl.xml",
+            "outputFile": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-pl/values-pl.xml",
             "map": [
                 {
                     "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/3a9eda308b3481390b054c2c75ace709/res/values-pl/values-pl.xml",
@@ -18,6 +18,23 @@
                         "startOffsets": "1886,2042,2175,2313,2424,2510,2600,2677,2766,2862,2990,3105,3200,3295,3398,3524,3606,3693,3871,3966,4067,4182,4291",
                         "endColumns": "155,132,137,110,85,89,76,88,95,127,114,94,94,102,125,81,86,177,94,100,114,108,156",
                         "endOffsets": "2037,2170,2308,2419,2505,2595,2672,2761,2857,2985,3100,3195,3290,3393,3519,3601,3688,3866,3961,4062,4177,4286,4443"
+                    }
+                },
+                {
+                    "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/3adbe048f7703c162a38a50ff0ed3d03/res/values-pl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "50",
+                        "startColumns": "4",
+                        "startOffsets": "5596",
+                        "endColumns": "198",
+                        "endOffsets": "5790"
                     }
                 },
                 {
@@ -89,24 +106,24 @@
                     }
                 },
                 {
-                    "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/45822bb0eb9e839ea5c36cea7cc27a58/res/values-pl/values.xml",
+                    "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/ecb81db73a7b460ea264a73bd63c797f/res/values-pl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
+                        "startOffsets": "205",
+                        "endColumns": "98",
+                        "endOffsets": "303"
                     },
                     "to": {
-                        "startLines": "50",
+                        "startLines": "71",
                         "startColumns": "4",
-                        "startOffsets": "5596",
-                        "endColumns": "198",
-                        "endOffsets": "5790"
+                        "startOffsets": "8040",
+                        "endColumns": "102",
+                        "endOffsets": "8138"
                     }
                 },
                 {
-                    "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a01fb1e7603a7821ecfe4c1ca8b34c5a/res/values-pl/values.xml",
+                    "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/21e5087ea6e3ea094b858b1999d7fc97/res/values-pl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -137,23 +154,6 @@
                         "startOffsets": "8243,8316,8432,8504,8572,8664,8782",
                         "endColumns": "72,115,71,67,91,117,76",
                         "endOffsets": "8311,8427,8499,8567,8659,8777,8854"
-                    }
-                },
-                {
-                    "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/403409471fcf3b2ad43062538fe5e368/res/values-pl/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "98",
-                        "endOffsets": "303"
-                    },
-                    "to": {
-                        "startLines": "71",
-                        "startColumns": "4",
-                        "startOffsets": "8040",
-                        "endColumns": "102",
-                        "endOffsets": "8138"
                     }
                 },
                 {

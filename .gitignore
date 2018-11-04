@@ -2,6 +2,8 @@ node_modules/**/*
 .expo/**/*
 release/builds
 
+android/*/**/generated/*
+android/*/**/intermediates/*
 */**/.idea/
 .vscode
 ios/Pods/
