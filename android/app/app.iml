@@ -480,12 +480,13 @@
     <orderEntry type="library" name="Gradle: host.exp:reactandroid-abi26_0_0-1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: host.exp.exponent:expo-file-system-abi29_0_0-1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-database-16.0.3" level="project" />
-    <orderEntry type="module" module-name="expo-firebase-analytics~1" />
-    <orderEntry type="module" module-name="expo-firebase-auth~1" />
-    <orderEntry type="module" module-name="expo-core~1" />
-    <orderEntry type="module" module-name="expo-firebase-app~1" />
-    <orderEntry type="module" module-name="expo-firebase-messaging~1" />
-    <orderEntry type="module" module-name="expo-firebase-database~1" />
-    <orderEntry type="module" module-name="expo-firebase-performance~1" />
+    <orderEntry type="module" module-name="expo-firebase-analytics" />
+    <orderEntry type="module" module-name="expo-firebase-instance-id" />
+    <orderEntry type="module" module-name="expo-firebase-auth" />
+    <orderEntry type="module" module-name="expo-core" />
+    <orderEntry type="module" module-name="expo-firebase-app" />
+    <orderEntry type="module" module-name="expo-firebase-messaging" />
+    <orderEntry type="module" module-name="expo-firebase-database" />
+    <orderEntry type="module" module-name="expo-firebase-performance" />
   </component>
 </module>

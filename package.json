@@ -11,9 +11,11 @@
   "dependencies": {
     "expo": "^30.0.1",
     "expo-firebase-analytics": "^1.0.0-rc.1",
-    "expo-firebase-app": "^1.0.0-rc.1",
+    "expo-firebase-app": "^1.0.0",
     "expo-firebase-auth": "^1.0.0-rc.1",
     "expo-firebase-database": "^1.0.0-rc.1",
+    "expo-firebase-instance-id": "^1.0.0",
+    "expo-firebase-messaging": "^1.0.0",
     "expo-firebase-performance": "^1.0.0-rc.1",
     "expokit": "1.7.1",
     "react": "16.3.1",

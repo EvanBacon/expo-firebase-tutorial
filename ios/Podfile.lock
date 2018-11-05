@@ -18,8 +18,8 @@ PODS:
   - CocoaLumberjack/Default (3.2.1)
   - CocoaLumberjack/Extensions (3.2.1):
     - CocoaLumberjack/Default
-  - Crashlytics (3.10.9):
-    - Fabric (~> 1.7.13)
+  - Crashlytics (3.11.0):
+    - Fabric (~> 1.8.0)
   - DoubleConversion (1.1.5)
   - EXAdsAdMob (1.0.0):
     - EXCore
@@ -54,21 +54,28 @@ PODS:
     - EXFileSystemInterface
   - EXFileSystemInterface (1.0.2):
     - EXCore
-  - EXFirebaseAnalytics (1.0.0-rc.1):
+  - EXFirebaseAnalytics (1.0.0):
     - EXCore
     - Firebase/Analytics
-  - EXFirebaseApp (1.0.0-rc.1):
+  - EXFirebaseApp (1.0.0):
     - EXCore
     - Firebase/Core
-  - EXFirebaseAuth (1.0.0-rc.1):
+  - EXFirebaseAuth (1.0.0):
     - EXCore
     - EXFirebaseApp
     - Firebase/Auth
-  - EXFirebaseDatabase (1.0.0-rc.1):
+  - EXFirebaseDatabase (1.0.0):
     - EXCore
     - EXFirebaseApp
     - Firebase/Database
-  - EXFirebasePerformance (1.0.0-rc.1):
+  - EXFirebaseInstanceID (1.0.0):
+    - EXCore
+    - Firebase/Messaging
+  - EXFirebaseMessaging (1.0.0):
+    - EXCore
+    - EXFirebaseApp
+    - Firebase/Messaging
+  - EXFirebasePerformance (1.0.0):
     - EXCore
     - Firebase/Performance
   - EXFont (1.0.0):
@@ -145,14 +152,14 @@ PODS:
     - EXCore
   - EXSMS (1.0.2):
     - EXCore
-  - Fabric (1.7.13)
+  - Fabric (1.8.0)
   - FBAudienceNetwork (4.99.0)
-  - FBSDKCoreKit (4.37.0):
-    - Bolts (~> 1.7)
-  - FBSDKLoginKit (4.37.0):
+  - FBSDKCoreKit (4.38.0):
+    - Bolts (~> 1.9)
+  - FBSDKLoginKit (4.38.0):
     - FBSDKCoreKit
-  - FBSDKShareKit (4.37.0):
-    - FBSDKCoreKit (~> 4.37.0)
+  - FBSDKShareKit (4.38.0):
+    - FBSDKCoreKit
   - Firebase/Analytics (5.4.1):
     - Firebase/Core
   - Firebase/Auth (5.4.1):
@@ -166,6 +173,9 @@ PODS:
   - Firebase/Database (5.4.1):
     - Firebase/CoreOnly
     - FirebaseDatabase (= 5.0.2)
+  - Firebase/Messaging (5.4.1):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (= 3.0.3)
   - Firebase/Performance (5.4.1):
     - Firebase/Core
     - FirebasePerformance (= 2.0.1)
@@ -184,6 +194,11 @@ PODS:
     - leveldb-library (~> 1.18)
   - FirebaseInstanceID (3.1.1):
     - FirebaseCore (~> 5.0)
+  - FirebaseMessaging (3.0.3):
+    - FirebaseCore (~> 5.0)
+    - FirebaseInstanceID (~> 3.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - Protobuf (~> 3.1)
   - FirebasePerformance (2.0.1):
     - FirebaseAnalytics (~> 5.0)
     - FirebaseInstanceID (~> 3.1)
@@ -246,12 +261,12 @@ PODS:
   - GTMSessionFetcher/Core (1.2.0)
   - JKBigInteger2 (0.0.5)
   - leveldb-library (1.20)
-  - lottie-ios (2.5.0)
-  - nanopb (0.3.8):
-    - nanopb/decode (= 0.3.8)
-    - nanopb/encode (= 0.3.8)
-  - nanopb/decode (0.3.8)
-  - nanopb/encode (0.3.8)
+  - lottie-ios (2.5.2)
+  - nanopb (0.3.901):
+    - nanopb/decode (= 0.3.901)
+    - nanopb/encode (= 0.3.901)
+  - nanopb/decode (0.3.901)
+  - nanopb/encode (0.3.901)
   - Protobuf (3.6.1)
   - React (0.55.4):
     - React/Core (= 0.55.4)
@@ -322,6 +337,8 @@ DEPENDENCIES:
   - EXFirebaseApp (from `../node_modules/expo-firebase-app/ios`)
   - EXFirebaseAuth (from `../node_modules/expo-firebase-auth/ios`)
   - EXFirebaseDatabase (from `../node_modules/expo-firebase-database/ios`)
+  - EXFirebaseInstanceID (from `../node_modules/expo-firebase-instance-id/ios`)
+  - EXFirebaseMessaging (from `../node_modules/expo-firebase-messaging/ios`)
   - EXFirebasePerformance (from `../node_modules/expo-firebase-performance/ios`)
   - EXFont (from `../node_modules/expo-font/ios`)
   - EXFontInterface (from `../node_modules/expo-font-interface/ios`)
@@ -379,6 +396,7 @@ SPEC REPOS:
     - FirebaseCore
     - FirebaseDatabase
     - FirebaseInstanceID
+    - FirebaseMessaging
     - FirebasePerformance
     - FirebaseSwizzlingUtilities
     - Google-Maps-iOS-Utils
@@ -434,6 +452,10 @@ EXTERNAL SOURCES:
     :path: "../node_modules/expo-firebase-auth/ios"
   EXFirebaseDatabase:
     :path: "../node_modules/expo-firebase-database/ios"
+  EXFirebaseInstanceID:
+    :path: "../node_modules/expo-firebase-instance-id/ios"
+  EXFirebaseMessaging:
+    :path: "../node_modules/expo-firebase-messaging/ios"
   EXFirebasePerformance:
     :path: "../node_modules/expo-firebase-performance/ios"
   EXFont:
@@ -495,7 +517,7 @@ SPEC CHECKSUMS:
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   Branch: 0d98d22745a9b68bcb4fa6dc1c6a92b64d4fdd7b
   CocoaLumberjack: 2800c03334042fe80589423c8d80e582dcaec482
-  Crashlytics: 55e24fc23989680285a21cb1146578d9d18e432c
+  Crashlytics: 1448070c1d2731ab71ea7c3faf84ac0f69657287
   DoubleConversion: e22e0762848812a87afd67ffda3998d9ef29170c
   EXAdsAdMob: e3487aceb377e0412f8665a48f3b72fc5f3d7723
   EXBarCodeScanner: bae21e0fd0176f1defef73dc5686102ae7c3dd65
@@ -513,6 +535,8 @@ SPEC CHECKSUMS:
   EXFirebaseApp: 3a729933a919fe1fc3be7bfd1a3c44ec0a17dda2
   EXFirebaseAuth: 361585ddb3096b61d0cdc772783a64f378dd52c8
   EXFirebaseDatabase: d53075f7d90335d4e02d916e735ad544706c745a
+  EXFirebaseInstanceID: 165bdb497228a2a12671a1a520a2945456a815e0
+  EXFirebaseMessaging: 1f0253583f44a08632310ec52279fd76fc349090
   EXFirebasePerformance: c65815c849c5e7e68cdd0909837932dc980a6948
   EXFont: 66dcbd991d350e0e7d55a152e884777f51d0a5c3
   EXFontInterface: c4dd21f001a9a4117c68f2d4e4d98d5e9a716852
@@ -532,17 +556,18 @@ SPEC CHECKSUMS:
   EXSensors: 06a11a8c6c08d62fa20ae64e61cd602be2bf36a2
   EXSensorsInterface: eca1381ec807ec2439e2f1607f3fa4297deaaf20
   EXSMS: 3fa7cd245d744abc70a918c6d991e09c63ba46e3
-  Fabric: 25d0963b691fc97be566392243ff0ecef5a68338
+  Fabric: 4ac1cdfef3004ccd83ce0959b91eda8a6e37df72
   FBAudienceNetwork: 80275c0a28574ff5ce820abdc251d05e07e6ae7a
-  FBSDKCoreKit: fe5f3474499a81963e11e3f3a5c753d0a95ca2b4
-  FBSDKLoginKit: 2f7249686d1e30ce8a5ef5400eedf50b3e3df332
-  FBSDKShareKit: 52e0083222c38e930eb6878007478326599195c3
+  FBSDKCoreKit: 2ab7fdbf600dc6b628ba7a49aa29d357a7b4c74e
+  FBSDKLoginKit: 634fa27e72e33620eb6389253337342c03d4a407
+  FBSDKShareKit: 00290e3db446eed603ff80ac629dcc5e80cf8b74
   Firebase: 355bd535bfdacaa82a7fe8d9784115edefd6fc03
   FirebaseAnalytics: b3628aea54c50464c32c393fb2ea032566e7ecc2
   FirebaseAuth: 096e457cdd4274412a66c4a35874787e411f5a03
   FirebaseCore: 4c28e3b9708ba48a765e76515f913a71596eb5dd
   FirebaseDatabase: 27be5ac5bc75e0b17537b2bbfada8258addcc8cd
   FirebaseInstanceID: f3f0657372592ecdfdfe2cac604a5a75758376a6
+  FirebaseMessaging: f43eb0c0e1da096e659de6f713038e74862a62cd
   FirebasePerformance: 1ebd87ffee5ca814582db1dc9e25651792ba02db
   FirebaseSwizzlingUtilities: 6c22677c50d0b6f5f0dc637c1233f13694a3003f
   Folly: 211775e49d8da0ca658aebc8eab89d642935755c
@@ -560,13 +585,13 @@ SPEC CHECKSUMS:
   GTMSessionFetcher: 0c4baf0a73acd0041bf9f71ea018deedab5ea84e
   JKBigInteger2: e91672035c42328c48b7dd015b66812ddf40ca9b
   leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
-  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
-  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
   Protobuf: 1eb9700044745f00181c136ef21b8ff3ad5a0fd5
   React: aa2040dbb6f317b95314968021bd2888816e03d5
   Stripe: 76c203e21555089b708e6cbe972a3e3baf1ab4d8
   yoga: a23273df0088bf7f2bb7e5d7b00044ea57a2a54a
 
-PODFILE CHECKSUM: 9f1776aeb4f552e1bb1e707593c356dead90d236
+PODFILE CHECKSUM: 04366ddcfbe0f007c0465459c111e8dcfc6ae237
 
 COCOAPODS: 1.5.3

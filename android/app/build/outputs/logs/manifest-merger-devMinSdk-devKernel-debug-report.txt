@@ -1,14 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
-INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
-INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
-INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
+ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
+INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
+INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
+INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
 MERGED from [:expo-firebase-analytics] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-analytics/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-firebase-auth] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-auth/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-firebase-database] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-database/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-firebase-performance] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-performance/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-firebase-messaging] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-messaging/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-firebase-instance-id] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-instance-id/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-firebase-app] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-app/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [host.exp.exponent:expoview:30.0.0] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/041231b84dc83fe92b39686b0fed96bb/AndroidManifest.xml:2:1-88:12
 MERGED from [host.exp.exponent:expo-react-native-adapter:1.1.0] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/expo-react-native-adapter-1.1.0.aar/b9ef3fd424292eea3f7d88a2f351b61e/AndroidManifest.xml:2:1-11:12
@@ -207,22 +208,22 @@ MERGED from [com.crashlytics.sdk.android:answers:1.3.6] /Users/evanbacon/.gradle
 MERGED from [io.fabric.sdk.android:fabric:1.3.10] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/fabric-1.3.10.aar/57a6b616a7ca3c7f3c5a5ef0f69fc0dc/AndroidManifest.xml:18:1-29:12
 MERGED from [com.crashlytics.sdk.android:beta:1.1.4] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/beta-1.1.4.aar/6305298b7c72e565801842951b28d59c/AndroidManifest.xml:2:1-13:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5e1a82fe00f888cd6b04f53064e3ece1/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
-INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
-INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
+INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
+INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
+INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
 	package
 		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:3:3-30
 		INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
 		INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:5:3-49
 	android:versionCode
 		INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-323:12
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:2:1-321:12
 		INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:4:3-61
@@ -503,7 +504,7 @@ ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/Andr
 	android:name
 		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:47:17-60
 application
-ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:49:3-321:17
+ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:49:3-319:17
 MERGED from [host.exp.exponent:expoview:30.0.0] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/041231b84dc83fe92b39686b0fed96bb/AndroidManifest.xml:70:5-86:19
 MERGED from [host.exp.exponent:expoview:30.0.0] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/041231b84dc83fe92b39686b0fed96bb/AndroidManifest.xml:70:5-86:19
 MERGED from [host.exp.exponent:expo-payments-stripe:1.0.1] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/expo-payments-stripe-1.0.1.aar/f212630339982096e6c58007ae14815c/AndroidManifest.xml:11:5-17:19
@@ -841,7 +842,7 @@ ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/Andr
 		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:170:9-79
 	android:name
 		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:169:9-72
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:expo.modules.payments.stripe.b5fa2102-2fab-4d49-b22e-fc03151c06ff
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:expo.modules.payments.stripe.abeabc8b-4ced-4a13-b8e4-4e48aa4e75c9
 ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:171:9-176:25
 activity#host.exp.exponent.chrometabs.ChromeTabsManagerActivity
 ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:181:5-183:16
@@ -1008,40 +1009,36 @@ ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/Andr
 		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:289:7-31
 	android:name
 		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:288:7-55
-service#expo.modules.firebase.messaging.FirebaseBackgroundMessagingService
-ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:292:5-98
-	android:name
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:292:14-95
 activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:295:5-298:16
+ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:293:5-296:16
 	android:theme
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:297:7-50
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:295:7-50
 	android:name
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:296:7-70
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:294:7-70
 meta-data#io.fabric.ApiKey
-ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:303:5-305:65
+ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:301:5-303:65
 	android:value
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:305:7-63
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:303:7-63
 	android:name
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:304:7-38
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:302:7-38
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:310:5-312:64
+ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:308:5-310:64
 	android:value
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:312:7-62
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:310:7-62
 	android:name
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:311:7-52
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:309:7-52
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:318:5-83
+ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:316:5-83
 	android:value
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:318:62-81
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:316:62-81
 	android:name
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:318:16-61
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:316:16-61
 meta-data#standaloneStripeScheme
-ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:320:5-109
+ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:318:5-109
 	android:value
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:320:54-106
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:318:54-106
 	android:name
-		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:320:16-53
+		ADDED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml:318:16-53
 uses-sdk
 INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/AndroidManifest.xml
@@ -1056,6 +1053,8 @@ MERGED from [:expo-firebase-performance] /Users/evanbacon/Documents/youtube-tuto
 MERGED from [:expo-firebase-performance] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-performance/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-firebase-messaging] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-messaging/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-firebase-messaging] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-messaging/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-firebase-instance-id] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-instance-id/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-firebase-instance-id] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-instance-id/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-firebase-app] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-app/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-firebase-app] /Users/evanbacon/Documents/youtube-tutorial/node_modules/expo-firebase-app/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [host.exp.exponent:expoview:30.0.0] /Users/evanbacon/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/041231b84dc83fe92b39686b0fed96bb/AndroidManifest.xml:7:5-9:41

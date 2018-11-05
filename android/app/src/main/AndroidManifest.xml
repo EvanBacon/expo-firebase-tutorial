@@ -172,7 +172,7 @@
             <action android:name="android.intent.action.VIEW" />
             <category android:name="android.intent.category.DEFAULT" />
             <category android:name="android.intent.category.BROWSABLE" />
-            <data android:scheme="expo.modules.payments.stripe.b5fa2102-2fab-4d49-b22e-fc03151c06ff" />
+            <data android:scheme="expo.modules.payments.stripe.abeabc8b-4ced-4a13-b8e4-4e48aa4e75c9" />
         </intent-filter>
     </activity>
     <!-- Versioned Activity for Stripe -->
@@ -273,7 +273,7 @@
 
     <!-- FCM -->
     <service
-      android:name=".fcm.ExpoFcmMessagingService">
+      android:name="expo.modules.firebase.messaging.EXFirebaseMessagingService">
       <intent-filter>
         <action android:name="com.google.firebase.MESSAGING_EVENT"/>
       </intent-filter>
@@ -315,7 +315,7 @@
     <!-- The Facebook SDK runs FacebookInitProvider on startup and crashes if there isn't an ID here -->
     <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="fb0"/>
 
-    <meta-data android:name="standaloneStripeScheme" android:value="b5fa2102-2fab-4d49-b22e-fc03151c06ff" />
+    <meta-data android:name="standaloneStripeScheme" android:value="abeabc8b-4ced-4a13-b8e4-4e48aa4e75c9" />
   </application>
 
 </manifest>

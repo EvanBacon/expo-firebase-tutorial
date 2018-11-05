@@ -74,6 +74,9 @@ target 'youtube-clone' do
   pod 'EXFirebaseDatabase', path: '../node_modules/expo-firebase-database/ios'
   pod 'EXFirebasePerformance', path: '../node_modules/expo-firebase-performance/ios'
 
+  pod 'EXFirebaseMessaging', path: '../node_modules/expo-firebase-messaging/ios'
+  pod 'EXFirebaseInstanceID', path: '../node_modules/expo-firebase-instance-id/ios'
+
 
   pod 'React',
     :path => "../node_modules/react-native",

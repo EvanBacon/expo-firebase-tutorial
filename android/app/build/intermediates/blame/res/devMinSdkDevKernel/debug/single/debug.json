@@ -96,16 +96,16 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-hdpi-v4/ic_add_black_32dp.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_design_error.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/c72a47459d09871d2d1cfcbdf850b039/res/color/design_error.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldpi-v4_ic_unknown.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-ldpi-v4/ic_unknown.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_design_error.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/c72a47459d09871d2d1cfcbdf850b039/res/color/design_error.xml"
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -160,12 +160,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/041231b84dc83fe92b39686b0fed96bb/res/drawable-xxxhdpi-v4/ic_fullscreen_exit_32dp.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_ic_mastercard.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-xhdpi-v4/ic_mastercard.png"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_com_facebook_button_icon_white.png.flat",
@@ -192,20 +192,20 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/anim/abc_tooltip_exit.xml"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_cvc.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-anydpi-v21/ic_cvc.xml"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/3a9eda308b3481390b054c2c75ace709/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_cvc.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-anydpi-v21/ic_cvc.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_design_navigation_menu_item.xml.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/c72a47459d09871d2d1cfcbdf850b039/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_notification_bg_low.xml.flat",
@@ -352,12 +352,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/3a9eda308b3481390b054c2c75ace709/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/3a9eda308b3481390b054c2c75ace709/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_mastercard_template_32.xml.flat",
@@ -368,12 +368,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/21e5087ea6e3ea094b858b1999d7fc97/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/c72a47459d09871d2d1cfcbdf850b039/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_ic_error_amex.png.flat",
@@ -416,12 +416,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-hdpi-v4/ic_error.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_activity_payment_methods.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/layout/activity_payment_methods.xml"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_activity_payment_methods.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/layout/activity_payment_methods.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
@@ -476,12 +476,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/171ccdf14f52f9a00101a28bd3ca1d3c/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_com_facebook_button_icon.xml.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/b786c913a544d5b38e9bb753a893b9fa/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -516,12 +516,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-ldpi-v4/ic_diners.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_cvc_amex.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-anydpi-v21/ic_cvc_amex.xml"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_messenger_button_send_blue_large.xml.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/1471c0f1d8c2f7e4fc2df7ba32d1091b/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_cvc_amex.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-anydpi-v21/ic_cvc_amex.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -768,12 +768,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/21e5087ea6e3ea094b858b1999d7fc97/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_background_white.xml.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.10.aar/bb0adefa94bd85f27080c8b1bc62ef26/res/drawable/background_white.xml"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/21e5087ea6e3ea094b858b1999d7fc97/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -804,12 +804,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/3adb78886447dc961cfc8c1ddd9bcdf8/res/layout/crop_image_view.xml"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_diners.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-anydpi-v21/ic_diners.xml"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_ic_fullscreen_32dp.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/expoview-30.0.0.aar/041231b84dc83fe92b39686b0fed96bb/res/drawable-hdpi-v4/ic_fullscreen_32dp.png"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_diners.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-anydpi-v21/ic_diners.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_visa_template_32.xml.flat",
@@ -916,12 +916,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_list_menu_item_radio.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-anydpi-v21_ic_discover_template_32.xml.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/48d8a97cf3e3ad71a7e456d57b206d04/res/drawable-anydpi-v21/ic_discover_template_32.xml"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -948,12 +948,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.4.7.aar/3adb78886447dc961cfc8c1ddd9bcdf8/res/drawable-xxxhdpi-v4/crop_image_menu_rotate_right.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_exo_simple_player_view.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/171ccdf14f52f9a00101a28bd3ca1d3c/res/layout/exo_simple_player_view.xml"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_exo_simple_player_view.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/171ccdf14f52f9a00101a28bd3ca1d3c/res/layout/exo_simple_player_view.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xhdpi_ic_refresh_white_36dp.png.flat",
@@ -1032,12 +1032,12 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.4.8.10.aar/bb0adefa94bd85f27080c8b1bc62ef26/res/drawable-xxhdpi-v4/ic_card_amex.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_exponent_dev_activity.xml.flat",
-        "source": "/Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/res/layout/exponent_dev_activity.xml"
-    },
-    {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_abc_vector_test.xml.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/layout_exponent_dev_activity.xml.flat",
+        "source": "/Users/evanbacon/Documents/youtube-tutorial/android/app/src/main/res/layout/exponent_dev_activity.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-xxxhdpi_big_logo_dark.png.flat",
@@ -1096,16 +1096,16 @@
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/17e39ceb9f008c004d68ed26903477dd/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable-mdpi-v4_exo_controls_pause.png.flat",
         "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/171ccdf14f52f9a00101a28bd3ca1d3c/res/drawable-mdpi-v4/exo_controls_pause.png"
     },
     {
-        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/17e39ceb9f008c004d68ed26903477dd/res/drawable/notification_icon_background.xml"
+        "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/evanbacon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b4fc764859e15c8f4afb13cde4aa3e75/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/evanbacon/Documents/youtube-tutorial/android/app/build/intermediates/res/merged/devMinSdkDevKernel/debug/drawable_stp_card_form_back.png.flat",

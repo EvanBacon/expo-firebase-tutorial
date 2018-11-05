@@ -8,9 +8,6 @@
 #import <EXFirebaseNotifications/EXFirebaseNotifications.h>
 #endif
 
-#if __has_include(<EXFirebaseMessaging/EXFirebaseMessaging.h>)
-#import <EXFirebaseMessaging/EXFirebaseMessaging.h>
-#endif
 #if __has_include(<EXFirebaseLinks/EXFirebaseLinks.h>)
 #if __has_include(<EXFirebaseInvites/EXFirebaseInvites.h>)
 #import <EXFirebaseInvites/EXFirebaseInvites.h>
@@ -27,6 +24,11 @@
 #if __has_include(<FirebaseDatabase/FIRDatabase.h>)
 #import <FirebaseDatabase/FIRDatabase.h>
 #endif
+
+
+// Add this...
+#import <EXFirebaseMessaging/EXFirebaseMessaging.h>
+
 
 static NSString *const EXLinkingUrlScheme = @"";
 
@@ -110,9 +112,10 @@ static NSString *const EXLinkingUrlScheme = @"";
 
 - (void)application:(UIApplication *)application didReceiveRemoteNotification:(nonnull NSDictionary *)userInfo
 fetchCompletionHandler:(nonnull void (^)(UIBackgroundFetchResult))completionHandler{
-#if __has_include(<EXFirebaseNotifications/EXFirebaseNotifications.h>)
-    [[EXFirebaseNotifications instance] didReceiveRemoteNotification:userInfo fetchCompletionHandler:completionHandler];
-#endif
+
+    // Add this...
+    [[EXFirebaseMessaging instance] didReceiveRemoteNotification:userInfo];
+    
     [[ExpoKit sharedInstance] application:application didReceiveRemoteNotification:userInfo];
 }
 
@@ -126,9 +129,6 @@ fetchCompletionHandler:(nonnull void (^)(UIBackgroundFetchResult))completionHand
 
 - (void)application:(UIApplication *)application didRegisterUserNotificationSettings:(nonnull UIUserNotificationSettings *)notificationSettings
 {
-#if __has_include(<EXFirebaseMessaging/EXFirebaseMessaging.h>)
-    [[EXFirebaseMessaging instance] didRegisterUserNotificationSettings:notificationSettings];
-#endif
     [[ExpoKit sharedInstance] application:application didRegisterUserNotificationSettings:notificationSettings];
 }
 
